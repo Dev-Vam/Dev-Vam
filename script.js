@@ -187,6 +187,7 @@ const TRANSLATIONS = {
         "projects": "Projects",
         "development": "Development",
         "branding": "Python",
+        "email": "Email",
 
         // Projects
         "finance-tracker": "Finance Tracker Website",
@@ -262,6 +263,7 @@ const TRANSLATIONS = {
         // Contact & Info
         "location": "Localisation",
         "phone": "Téléphone",
+        "email":"Courriel",
         "download-cv": "Télécharger le CV",
         "projects": "Projets",
         "development": "Développement",
