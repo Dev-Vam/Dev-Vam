@@ -58,12 +58,6 @@
     --text-color: #fff;
     --link-color: #1e90ff;
   }
-
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
   
   /* Apply the variables */
   body {
@@ -1453,7 +1447,7 @@
   
   /* Contact Section Styles */
   .contact-section {
-      padding: 6rem 0;
+      padding: 4rem 0;
       background: var(--bg-color);
   }
   
@@ -1494,7 +1488,7 @@
       gap: 1.5rem;
       transition: transform 0.3s ease, box-shadow 0.3s ease;
       border: 1px solid var(--border-color);
-      width: 100%;
+      width: 85%;
   }
   
   .contact-card:hover {
@@ -1537,20 +1531,16 @@
   .contact-form-wrapper {
       background: var(--card-bg);
       border-radius: 1rem;
+      padding: 100rem;
       border: 1px solid var(--border-color);
-      width: 100%;
-      padding: 0rem;
-      margin: 0;
-      padding-top: 2rem;
-      padding-bottom: 2rem;
-      padding-right: 1rem;
+      width: 75%;
   }
   
   .contact-form {
       display: flex;
       flex-direction: column;
       gap: 1.5rem;
-      width: 75%;
+      width: 85%;
   }
   
   .form-group {
