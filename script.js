@@ -57,7 +57,12 @@ const TRANSLATIONS = {
         "experiences": "Experiences",
         "years-experience": "Years of<br>Experience",
         "bio-text": "Hello! I'm Kayembe Mwadi Vamerlen, a passionate creative developer based in South Africa. I specialize in crafting beautiful and functional digital experiences that combine innovative design with clean, efficient code. With a keen eye for detail and a love for both aesthetics and functionality, I help businesses bring their digital visions to life.",
-        "lets-talk": "Let's Talk"
+        "lets-talk": "Let's Talk",
+        "development": "Development",
+        "branding": "Python",
+        "uiux-desc": "Creating intuitive and beautiful user interfaces",
+        "dev-desc": "Building responsive and performant websites",
+        "branding-desc": "Crafting unique and memorable python apps"
     },
     fr: {
         "hello": "Bonjour, je suis",
@@ -115,23 +120,9 @@ const TRANSLATIONS = {
         "team-collaboration": "Collaboration d'Équipe",
         "creating-digital": "Création d'Expériences",
         "experiences": "Numériques",
-        "years-experience": "Années<br>d'Expérience",
+        "years-experience": "Années d'Expérience",
         "bio-text": "Bonjour! Je suis Kayembe Mwadi Vamerlen, un développeur créatif passionné basé en Afrique du Sud. Je me spécialise dans la création d'expériences numériques belles et fonctionnelles qui combinent design innovant et code propre et efficace. Avec un œil attentif aux détails et un amour pour l'esthétique et la fonctionnalité, j'aide les entreprises à donner vie à leurs visions numériques.",
-        "lets-talk": "Discutons"
-    
-    }
-    en: {
-        // ... existing translations ...
-        "uiux-design": "UI/UX Design",
-        "development": "Development",
-        "branding": "Python",
-        "uiux-desc": "Creating intuitive and beautiful user interfaces",
-        "dev-desc": "Building responsive and performant websites",
-        "branding-desc": "Crafting unique and memorable python apps"
-    },
-    fr: {
-        // ... existing translations ...
-        "uiux-design": "Design UI/UX",
+        "lets-talk": "Discutons",
         "development": "Développement",
         "branding": "Python",
         "uiux-desc": "Création d'interfaces utilisateur intuitives et esthétiques",
@@ -139,7 +130,9 @@ const TRANSLATIONS = {
         "branding-desc": "Création d'applications Python uniques et mémorables"
     }
 };
-};
+
+
+
 
 // Event Listeners
 document.addEventListener('DOMContentLoaded', () => {
