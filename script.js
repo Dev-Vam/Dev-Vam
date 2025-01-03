@@ -118,7 +118,27 @@ const TRANSLATIONS = {
         "years-experience": "Années<br>d'Expérience",
         "bio-text": "Bonjour! Je suis Kayembe Mwadi Vamerlen, un développeur créatif passionné basé en Afrique du Sud. Je me spécialise dans la création d'expériences numériques belles et fonctionnelles qui combinent design innovant et code propre et efficace. Avec un œil attentif aux détails et un amour pour l'esthétique et la fonctionnalité, j'aide les entreprises à donner vie à leurs visions numériques.",
         "lets-talk": "Discutons"
+    
     }
+    en: {
+        // ... existing translations ...
+        "uiux-design": "UI/UX Design",
+        "development": "Development",
+        "branding": "Python",
+        "uiux-desc": "Creating intuitive and beautiful user interfaces",
+        "dev-desc": "Building responsive and performant websites",
+        "branding-desc": "Crafting unique and memorable python apps"
+    },
+    fr: {
+        // ... existing translations ...
+        "uiux-design": "Design UI/UX",
+        "development": "Développement",
+        "branding": "Python",
+        "uiux-desc": "Création d'interfaces utilisateur intuitives et esthétiques",
+        "dev-desc": "Création de sites web réactifs et performants",
+        "branding-desc": "Création d'applications Python uniques et mémorables"
+    }
+};
 };
 
 // Event Listeners
