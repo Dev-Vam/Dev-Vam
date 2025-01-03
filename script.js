@@ -1,66 +1,59 @@
 // Constants
+// Add these translations to your existing TRANSLATIONS object
 const TRANSLATIONS = {
     en: {
-        "hello": "Hello, I'm",
-        "creative-title": "Creative Designer & Developer",
-        "view-work": "View My Work",
-        "contact-me": "Contact Me",
-        "my-work": "My Work",
-        "view-live": "View Live",
-        "view-code": "View Code",
-        "about": "About",
-        "home": "Home",
-        "portfolio": "Portfolio",
-        "contact": "Contact",
-        "get-in-touch": "Get in Touch",
-        "lets-create": "Let's Create Something Together",
-        "name": "Name",
-        "email": "Email",
-        "subject": "Subject",
-        "message": "Message",
-        "send-message": "Send Message",
-        "about-me": "About Me",
-        "skills": "Skills",
-        "services": "Services",
-        "uiux-design": "UI/UX Design",
-        "web-dev": "Web Development",
-        "python-dev": "Python Development",
-        "location": "Location",
-        "phone": "Phone",
-        "download-cv": "Download CV",
-        "projects": "Projects",
-        "footer-text": "© 2024 Vamerlen. All rights reserved."
+        // ... existing English translations ...
+        "about-title": "About Me",
+        "about-greeting": "Hi, I'm Vamerlen",
+        "about-description": "I'm a passionate Creative Designer & Developer based in South Africa. I specialize in creating beautiful, functional websites and applications.",
+        "experience-title": "Experience",
+        "education-title": "Education",
+        "skills-title": "Skills",
+        "tools-title": "Tools & Technologies",
+        
+        // Services
+        "services-title": "Services I Offer",
+        "web-dev-title": "Web Development",
+        "web-dev-desc": "Creating responsive and modern websites using the latest technologies",
+        "ui-design-title": "UI/UX Design",
+        "ui-design-desc": "Designing intuitive and beautiful user interfaces",
+        "python-dev-title": "Python Development",
+        "python-dev-desc": "Building efficient Python applications and automation scripts",
+        
+        // Skills
+        "frontend-dev": "Frontend Development",
+        "backend-dev": "Backend Development",
+        "responsive-design": "Responsive Design",
+        "version-control": "Version Control",
+        "problem-solving": "Problem Solving",
+        "team-collaboration": "Team Collaboration"
     },
     fr: {
-        "hello": "Bonjour, je suis",
-        "creative-title": "Designer & Développeur Créatif",
-        "view-work": "Voir Mes Projets",
-        "contact-me": "Me Contacter",
-        "my-work": "Mes Projets",
-        "view-live": "Voir En Direct",
-        "view-code": "Voir Le Code",
-        "about": "À Propos",
-        "home": "Accueil",
-        "portfolio": "Portfolio",
-        "contact": "Contact",
-        "get-in-touch": "Contactez-moi",
-        "lets-create": "Créons Quelque Chose Ensemble",
-        "name": "Nom",
-        "email": "Email",
-        "subject": "Sujet",
-        "message": "Message",
-        "send-message": "Envoyer",
-        "about-me": "À Propos de Moi",
-        "skills": "Compétences",
-        "services": "Services",
-        "uiux-design": "Design UI/UX",
-        "web-dev": "Développement Web",
-        "python-dev": "Développement Python",
-        "location": "Localisation",
-        "phone": "Téléphone",
-        "download-cv": "Télécharger CV",
-        "projects": "Projets",
-        "footer-text": "© 2024 Vamerlen. Tous droits réservés."
+        // ... existing French translations ...
+        "about-title": "À Propos de Moi",
+        "about-greeting": "Bonjour, je suis Vamerlen",
+        "about-description": "Je suis un Designer & Développeur Créatif passionné basé en Afrique du Sud. Je me spécialise dans la création de sites web et d'applications beaux et fonctionnels.",
+        "experience-title": "Expérience",
+        "education-title": "Formation",
+        "skills-title": "Compétences",
+        "tools-title": "Outils & Technologies",
+        
+        // Services
+        "services-title": "Services Proposés",
+        "web-dev-title": "Développement Web",
+        "web-dev-desc": "Création de sites web modernes et réactifs utilisant les dernières technologies",
+        "ui-design-title": "Design UI/UX",
+        "ui-design-desc": "Conception d'interfaces utilisateur intuitives et esthétiques",
+        "python-dev-title": "Développement Python",
+        "python-dev-desc": "Développement d'applications Python efficaces et scripts d'automatisation",
+        
+        // Skills
+        "frontend-dev": "Développement Frontend",
+        "backend-dev": "Développement Backend",
+        "responsive-design": "Design Adaptatif",
+        "version-control": "Gestion de Version",
+        "problem-solving": "Résolution de Problèmes",
+        "team-collaboration": "Collaboration d'Équipe"
     }
 };
 
