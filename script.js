@@ -144,9 +144,9 @@ const TRANSLATIONS = {
         // About Section
         "about-me": "About Me",
         "about-title": "About Me",
-        "about-greeting": "Hi, I'm Vamerlen",
+        "about-greeting": "Hi, I'm Mwadi Kayembe Vamerlen",
         "about-description": "I'm a passionate Creative Designer & Developer based in South Africa. I specialize in creating beautiful, functional websites and applications.",
-        "bio-text": "Hello! I'm Kayembe Mwadi Vamerlen, a passionate creative developer based in South Africa. I specialize in crafting beautiful and functional digital experiences that combine innovative design with clean, efficient code. With a keen eye for detail and a love for both aesthetics and functionality, I help businesses bring their digital visions to life.",
+        "bio-text": "Hello! I'm Mwadi Kayembe Vamerlen, a passionate creative developer based in South Africa. I specialize in crafting beautiful and functional digital experiences that combine innovative design with clean, efficient code. With a keen eye for detail and a love for both aesthetics and functionality, I help businesses bring their digital visions to life.",
 
         // Skills & Experience
         "skills": "Skills",
@@ -154,7 +154,7 @@ const TRANSLATIONS = {
         "education-title": "Education",
         "skills-title": "Skills",
         "tools-title": "Tools & Technologies",
-        "years-experience": "Years of<br>Experience",
+        "years-experience": "Years of Experience",
         "frontend-dev": "Frontend Development",
         "backend-dev": "Backend Development",
         "responsive-design": "Responsive Design",
@@ -224,9 +224,9 @@ const TRANSLATIONS = {
         // About Section
         "about-me": "À propos de moi",
         "about-title": "À propos de moi",
-        "about-greeting": "Bonjour, je suis Vamerlen",
+        "about-greeting": "Bonjour, je suis Mwadi Kayembe Vamerlen",
         "about-description": "Je suis un Designer et Développeur Créatif passionné basé en Afrique du Sud. Je me spécialise dans la création de sites web et d'applications beaux et fonctionnels.",
-        "bio-text": "Bonjour ! Je suis Kayembe Mwadi Vamerlen, un développeur créatif passionné basé en Afrique du Sud. Je me spécialise dans la création d'expériences numériques belles et fonctionnelles qui allient design innovant et code propre et efficace. Avec un souci du détail et un amour pour l'esthétique et la fonctionnalité, j'aide les entreprises à donner vie à leurs visions numériques.",
+        "bio-text": "Bonjour ! Je suis Mwadi Kayembe Vamerlen, un développeur créatif passionné basé en Afrique du Sud. Je me spécialise dans la création d'expériences numériques belles et fonctionnelles qui allient design innovant et code propre et efficace. Avec un souci du détail et un amour pour l'esthétique et la fonctionnalité, j'aide les entreprises à donner vie à leurs visions numériques.",
 
         // Skills & Experience
         "skills": "Compétences",
@@ -234,7 +234,7 @@ const TRANSLATIONS = {
         "education-title": "Formation",
         "skills-title": "Compétences",
         "tools-title": "Outils et Technologies",
-        "years-experience": "Années<br>d'expérience",
+        "years-experience": "Années d'expérience",
         "frontend-dev": "Développement Frontend",
         "backend-dev": "Développement Backend",
         "responsive-design": "Design Responsive",
