@@ -193,7 +193,12 @@ const TRANSLATIONS = {
         "finance-tracker": "Finance Tracker Website",
         "finance-tracker-desc": "A fully responsive finance tracker platform built with modern web technologies.",
         "fitness-tracker": "Fitness Tracker Website",
-        "fitness-tracker-desc": "A modern and responsive fitness tracker website with dark/light mode."
+        "fitness-tracker-desc": "A modern and responsive fitness tracker website with dark/light mode.",
+
+        // Art Design
+        "art-design-title": "Art Design",
+        "art-design-desc": "A modern and mobile app design.",
+        "view-design": "View Design"
     },
     fr: {
         // Navigation & Common
@@ -273,7 +278,12 @@ const TRANSLATIONS = {
         "finance-tracker": "Site de Suivi Financier",
         "finance-tracker-desc": "Une plateforme de suivi financier entièrement responsive construite avec des technologies web modernes.",
         "fitness-tracker": "Site de Suivi Fitness",
-        "fitness-tracker-desc": "Un site web moderne et responsive de suivi fitness avec mode clair/sombre."
+        "fitness-tracker-desc": "Un site web moderne et responsive de suivi fitness avec mode clair/sombre.",
+
+        // Art Design
+        "art-design-title": "Design Artistique",
+        "art-design-desc": "Un design d'application mobile moderne.",
+        "view-design": "Voir le Design"
     }
 };
 
@@ -299,5 +309,4 @@ function initializeScrollTimeline() {
         observer.observe(element);
     });
 }
-
 
