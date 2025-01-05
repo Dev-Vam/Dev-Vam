@@ -202,7 +202,9 @@ const TRANSLATIONS = {
 
         // Quiz App
         "quiz-app-title": "A Quiz App",
-        "quiz-app-desc": "A modern and simple quiz app."
+        "quiz-app-desc": "A modern and simple quiz app.",
+        "guess-word-title": "A Guess the Word App",
+        "guess-word-desc": "A modern and simple guess the word app"
     },
     fr: {
         // Navigation & Common
@@ -291,7 +293,9 @@ const TRANSLATIONS = {
 
         // Quiz App
         "quiz-app-title": "Une Application Quiz",
-        "quiz-app-desc": "Une application de quiz moderne et simple."
+        "quiz-app-desc": "Une application de quiz moderne et simple.",
+        "guess-word-title": "Un Jeu de Devinettes de Mots",
+        "guess-word-desc": "Une application moderne et simple pour deviner les mots"
     }
 };
 
