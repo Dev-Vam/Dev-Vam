@@ -198,7 +198,11 @@ const TRANSLATIONS = {
         // Art Design
         "art-design-title": "Art Design",
         "art-design-desc": "A modern and mobile app design.",
-        "view-design": "View Design"
+        "view-design": "View Design",
+
+        // Quiz App
+        "quiz-app-title": "A Quiz App",
+        "quiz-app-desc": "A modern and simple quiz app."
     },
     fr: {
         // Navigation & Common
@@ -283,7 +287,11 @@ const TRANSLATIONS = {
         // Art Design
         "art-design-title": "Design Artistique",
         "art-design-desc": "Un design d'application mobile moderne.",
-        "view-design": "Voir le Design"
+        "view-design": "Voir le Design",
+
+        // Quiz App
+        "quiz-app-title": "Une Application Quiz",
+        "quiz-app-desc": "Une application de quiz moderne et simple."
     }
 };
 
