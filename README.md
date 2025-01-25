@@ -4,11 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web Design
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Anytime I'm free
-- 🤔 I’m looking for help with I am Busy
-- 💬 Ask me about anything in Email
-- 📫 How to reach me: Email
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm kpop fan 🤐
+- 🔭 I am currently working in web design.  
+- 🌱 I am learning React.  
+- 👯 I am open to collaborating whenever I have free time.  
+- 🤔 I would appreciate help when I'm busy.  
+- 💬 Feel free to ask me anything via email.  
+- 📫 You can reach me by email.  
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: I am a K-pop fan! 🤐
