@@ -17,3 +17,11 @@ Here are some ideas to get you started:
 
 ![EnhypenHypenchivesGIF](https://github.com/user-attachments/assets/24baf4a2-dbcf-4af4-b14a-ea06d778ac26)
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/saunakghosh10/saunakghosh10/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
