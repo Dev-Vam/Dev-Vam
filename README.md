@@ -1,27 +1,34 @@
 ## Hi there 👋
 
-**Dev-Vam/Dev-Vam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with **Python**  
+- 🌱 I’m learning **React**  
+- 🤝 I’m open to collaborating whenever I have free time  
+- 🧠 I’d appreciate help when I’m busy  
+- 💬 Feel free to reach out with questions via email  
+- 📫 You can contact me at: *[your email here]*  
+- 😀 Pronouns: **She/Her**  
+- ⚡ Fun fact: I’m a **K-pop fan!** 🎶  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I am currently working in python.  
-- 🌱 I am learning React.  
-- 👯 I am open to collaborating whenever I have free time.  
-- 🤔 I would appreciate help when I'm busy.  
-- 💬 Feel free to ask me anything via email.  
-- 📫 You can reach me by email.  
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I am a K-pop fan! 🤐
+### ✨ My Interests
+- Web Development  
+- Frontend Projects  
+- Open Source Contributions  
+- Creative Coding  
 
-![KatseyeLaraGIF (2)](https://github.com/user-attachments/assets/681ce02d-002d-4daa-8484-270d872708dd)
+---
 
-![EnhypenHypenchivesGIF](https://github.com/user-attachments/assets/24baf4a2-dbcf-4af4-b14a-ea06d778ac26)
-
+### 🐍 My Contributions
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Contribution Snake 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/saunakghosh10/saunakghosh10/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <br><br><br>
 </div>
 
+---
+
+### 🎉 Extras
+![KatseyeLaraGIF](https://github.com/user-attachments/assets/681ce02d-002d-4daa-8484-270d872708dd)  
+![EnhypenHypenchivesGIF](https://github.com/user-attachments/assets/24baf4a2-dbcf-4af4-b14a-ea06d778ac26)
