@@ -5,7 +5,7 @@
 - 🤝 I’m open to collaborating whenever I have free time  
 - 🧠 I’d appreciate help when I’m busy  
 - 💬 Feel free to reach out with questions via email  
-- 📫 You can contact me at: *[your email here]*  
+- 📫 You can contact me at: *[merlenvam@proton.me]*  
 - 😀 Pronouns: **She/Her**  
 - ⚡ Fun fact: I’m a **K-pop fan!** 🎶  
 
